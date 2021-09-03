@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-My name is Bilal, I am interested in  software developement, Graphics, robotics and AI.
+My name is Bilal, I am interested in software development, Graphics, robotics and AI.
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=boualemb&count_private=true&show_icons=true&theme=tokyonight)
+
+
+
 <!--
 **boualemb/boualemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
